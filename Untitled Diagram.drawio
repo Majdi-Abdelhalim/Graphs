@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="25.0.3">
   <diagram name="Page-1" id="Q6NnZoDwip3nCs9Uk6EV">
-    <mxGraphModel dx="988" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,20 +45,38 @@
         </mxCell>
         <mxCell id="UoJ8DbCMdCZvxKPBIseP-23" value="&lt;font&gt;sm-policies/{urn:uuid}/update&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;opacity=90;shadow=0;" edge="1" parent="1">
           <mxGeometry x="0.0606" y="-25" relative="1" as="geometry">
-            <mxPoint x="570" y="330" as="sourcePoint" />
-            <mxPoint x="380" y="330" as="targetPoint" />
+            <mxPoint x="570" y="350" as="sourcePoint" />
+            <mxPoint x="380" y="350" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UoJ8DbCMdCZvxKPBIseP-30" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;PFCP Session Modification Request&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;fontFamily=Tahoma;opacity=90;shadow=0;" edge="1" parent="1">
           <mxGeometry x="0.0606" y="-25" relative="1" as="geometry">
-            <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="190" y="380" as="targetPoint" />
+            <mxPoint x="380" y="430" as="sourcePoint" />
+            <mxPoint x="190" y="430" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UoJ8DbCMdCZvxKPBIseP-33" value="Inputs:&lt;br&gt;MarBwDl&lt;br&gt;MarBwUl&lt;br&gt;MirBwDl&lt;br&gt;MirBwUl&lt;br&gt;FDescs&lt;br&gt;ueIpv4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="285" width="70" height="110" as="geometry" />
+        <mxCell id="UoJ8DbCMdCZvxKPBIseP-34" value="Created (appSessionId)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;opacity=90;shadow=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0526" y="20" relative="1" as="geometry">
+            <mxPoint x="570" y="320" as="sourcePoint" />
+            <mxPoint x="760" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoJ8DbCMdCZvxKPBIseP-35" value="&lt;div align=&quot;center&quot;&gt;&lt;font&gt;PFCP Session Modification Request&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;fontFamily=Tahoma;opacity=90;shadow=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0526" y="20" relative="1" as="geometry">
+            <mxPoint x="190" y="470" as="sourcePoint" />
+            <mxPoint x="380" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoJ8DbCMdCZvxKPBIseP-36" value="Updated" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;fontFamily=Tahoma;opacity=90;shadow=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0526" y="20" relative="1" as="geometry">
+            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

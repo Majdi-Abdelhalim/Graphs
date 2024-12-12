@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hiNoReXvEXL5pm_EN6Or-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="hiNoReXvEXL5pm_EN6Or-2" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="310" y="190" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hiNoReXvEXL5pm_EN6Or-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hiNoReXvEXL5pm_EN6Or-3" target="hiNoReXvEXL5pm_EN6Or-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hiNoReXvEXL5pm_EN6Or-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="220" width="120" height="60" as="geometry" />
